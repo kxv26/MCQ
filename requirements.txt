@@ -1,0 +1,14 @@
+datasets==2.18.0
+numpy==1.26.4
+transformers==4.39.2
+jupyter==1.0.0
+cliffs_delta==1.0.0
+matplotlib==3.8.3
+rapidfuzz==3.7.0
+evaluate==0.4.1
+bert-score==0.3.13
+rouge-score==0.1.2
+pandas==2.2.1
+matplotlib==3.8.3
+scipy==1.12.0
+gradio==4.25.0
