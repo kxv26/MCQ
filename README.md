@@ -1,5 +1,5 @@
 # NLP-project
-
+Please note that contributions are not visible here, because we worked on this project on a private GitLab instance, and migrated here for the sake of the NLP course.
 
 ## Project Description
 This project is a part of the course "Natural Language Processing" at the University of Groningen.
